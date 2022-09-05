@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51669e9b-9976-4abd-b64c-5903d08ed495" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone/deepClone.js" beforeDir="false" afterPath="$PROJECT_DIR$/clone/deepClone.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,6 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectId" id="2EKQwwjfZlr1KhLmGkt2rWP1c89" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -78,32 +78,27 @@
       </pane>
     </panes>
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\euehs\Desktop\mPoint\clone" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\shellSort" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\insertionSort" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\selectionSort" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\bubbleSort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\euehs\Desktop\mPoint\extends" />
+      <recent name="C:\Users\euehs\Desktop\mPoint\clone" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\bubbleSort" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -117,7 +112,6 @@
       <workItem from="1614662094826" duration="6895000" />
       <workItem from="1614735585335" duration="11975000" />
       <workItem from="1614821685734" duration="2095000" />
-      <workItem from="1662342040873" duration="1703000" />
     </task>
     <servers />
   </component>
@@ -148,7 +142,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/methods/bubbleSort/冒泡排序.gif">
