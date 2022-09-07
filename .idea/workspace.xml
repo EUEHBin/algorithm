@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51669e9b-9976-4abd-b64c-5903d08ed495" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/debounceAndthrottle/debounce1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debounceAndthrottle/throttle1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone/clone2.js" beforeDir="false" afterPath="$PROJECT_DIR$/clone/clone2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clone/deepClone.js" beforeDir="false" afterPath="$PROJECT_DIR$/clone/deepClone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debounceAndthrottle/debounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debounceAndthrottle/throttle.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectId" id="2ENEMOR0bQdfg0YwHiKfrhEN1Jq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -78,27 +84,61 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/clone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/debounceAndthrottle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\euehs\Desktop\mPoint\debounceAndthrottle" />
       <recent name="C:\Users\euehs\Desktop\mPoint\clone" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\shellSort" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\insertionSort" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\selectionSort" />
-      <recent name="C:\Users\lenovo\Desktop\algorithm\methods\bubbleSort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\euehs\Desktop\mPoint\clone" />
       <recent name="C:\Users\lenovo\Desktop\algorithm\methods\bubbleSort" />
     </key>
   </component>
+  <component name="RunManager" selected="Node.js.debounce2.js">
+    <configuration name="debounce1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/debounceAndthrottle/debounce1.js" working-dir="$PROJECT_DIR$/debounceAndthrottle">
+      <method v="2" />
+    </configuration>
+    <configuration name="debounce2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/debounceAndthrottle/debounce2.js" working-dir="$PROJECT_DIR$/debounceAndthrottle">
+      <method v="2" />
+    </configuration>
+    <configuration name="throttle1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/debounceAndthrottle/throttle1.js" working-dir="$PROJECT_DIR$/debounceAndthrottle">
+      <method v="2" />
+    </configuration>
+    <configuration name="throttle2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/debounceAndthrottle/throttle2.js" working-dir="$PROJECT_DIR$/debounceAndthrottle">
+      <method v="2" />
+    </configuration>
+    <configuration name="throttle3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/debounceAndthrottle/throttle3.js" working-dir="$PROJECT_DIR$/debounceAndthrottle">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.debounce2.js" />
+        <item itemvalue="Node.js.debounce1.js" />
+        <item itemvalue="Node.js.throttle2.js" />
+        <item itemvalue="Node.js.throttle3.js" />
+        <item itemvalue="Node.js.throttle1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -112,6 +152,8 @@
       <workItem from="1614662094826" duration="6895000" />
       <workItem from="1614735585335" duration="11975000" />
       <workItem from="1614821685734" duration="2095000" />
+      <workItem from="1662427599808" duration="2900000" />
+      <workItem from="1662512351025" duration="7627000" />
     </task>
     <servers />
   </component>
@@ -142,7 +184,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/methods/bubbleSort/冒泡排序.gif">

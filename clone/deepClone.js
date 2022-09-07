@@ -17,6 +17,7 @@ function deepClone(data,map = new WeakMap()){
     // 存储引用，可以解决循环引用问题
     map.set(data,cloneData)
 
+
     for (let key in data){
         if (data.hasOwnProperty(key)){
             cloneData[key] = deepClone(data[key],map)
@@ -24,3 +25,6 @@ function deepClone(data,map = new WeakMap()){
     }
     return cloneData
 }
+
+let arr = []
+arr.ind
