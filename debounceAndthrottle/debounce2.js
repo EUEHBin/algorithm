@@ -9,7 +9,7 @@ function debounce(func, wait, immediate) {
         let context = this;
         let args = arguments;
 
-        if (timeout) clearTimeout(timeout); // timeout 不为null
+        if (timeout) clearTimeout(timeout); // clearTimeout只是清除了定时器，但是timeout还存在
         if (immediate) {
             let callNow = !timeout; // 第一次会立即执行，以后只有事件执行后才会再次触发
             timeout = setTimeout(function () {

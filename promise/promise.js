@@ -107,9 +107,3 @@ const test3 = new MyPromise((resolve, reject) => {
 }).then(res=>{
     console.log(res)
 })
-
-
-
-
-
-
